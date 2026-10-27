@@ -1,1 +1,1 @@
-# The PNCS code will be released soon.
+The implementation of PNCS
